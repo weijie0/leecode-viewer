@@ -17,7 +17,7 @@
     "leetcode-spider": "^0.2.13",
     "lodash": "^4.17.2",
     "log4js": "^1.0.1",
-    "marked": "^0.3.6",
+    "marked": "^4.0.10",
     "thenify": "^3.2.1",
     "thenify-all": "^1.6.0",
     "vue": "^2.1.0",
