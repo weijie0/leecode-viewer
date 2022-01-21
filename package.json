@@ -16,7 +16,7 @@
     "highlight.js": "^9.9.0",
     "leetcode-spider": "^0.2.13",
     "lodash": "^4.17.2",
-    "log4js": "^1.0.1",
+    "log4js": "^6.4.0",
     "marked": "^0.3.6",
     "thenify": "^3.2.1",
     "thenify-all": "^1.6.0",
